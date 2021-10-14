@@ -1,4 +1,4 @@
-# Amazona ECommerce Website
+# Vocal-For-Local (Amazona)  Website
 ![amazona](/template/images/amazona.jpg)
 
 ## Demo Website
@@ -20,7 +20,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:swapnilwani3/vocal-for-local.git
+$ git clone git@github.com:swapnilwani3/vocal-for-local-Amazona-.git
 $ cd amazona
 ```
 
