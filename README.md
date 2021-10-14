@@ -14,8 +14,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:swapnilwani3/vocal-for-local-Amazona-.git
-$ cd amazona
+$ git clone git@github.com:swapnilwani3/vocal-for-local.git
+$ cd vocal-for-local
 ```
 
 ### 2. Setup MongoDB
