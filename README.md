@@ -1,10 +1,4 @@
-# Vocal-For-Local (Amazona)  Website
-![amazona](/template/images/amazona.jpg)
-
-## Demo Website
-
-- 👉 Heroku : [https://newamazona-final.herokuapp.com](https://newamazona-final.herokuapp.com)
-
+# Vocal-For-Local
 ## Technology Used
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
